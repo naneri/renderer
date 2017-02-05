@@ -1,0 +1,16 @@
+{
+    "name": "kana/renderer",
+    "description": "pckage to generate images",
+    "type": "project",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "Kanat Tabaldiev",
+            "email": "ktnaneri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "intervention/image": "^2.3"
+    }
+}
